@@ -1,6 +1,6 @@
 <?php
 
-    // Functions for the Operation of the site
+    // Functions for the operation of the site
     require 'inc/functions.php';
 
 	// HTML Start
@@ -22,7 +22,7 @@
 
 ?>
 
-        <section class="breadcrumb_area" style="background-image: url('https://www.armazemdc.com.br/storage/blog/o-que-e-seguranca-de-dados.jpeg');background-position: center center; background-repeat: no-repeat; background-size: cover;">
+        <section class="breadcrumb_area" style="background-image: url('img/headers/termos-politicas.jpeg'); background-position: center center; background-repeat: no-repeat; background-size: cover;">
             <div class="container">
                 <div class="breadcrumb_content text-center">
                     <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">Termos de Uso</h1>
