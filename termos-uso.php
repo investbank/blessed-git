@@ -9,16 +9,16 @@
 	echo "\n<html lang=".'"pt-br"'.">\n";
 
     // Head Tags
-    require 'template_parts/head.php';
+    require 'template-parts/head.php';
 
     // Body
     echo "\n    <body>";
 
     // Preloader
-    require 'template_parts/preloader.php';
+    require 'template-parts/preloader.php';
 
     // Navbar
-    require 'template_parts/navbar.php';
+    require 'template-parts/navbar.php';
 
 ?>
 
@@ -77,7 +77,7 @@
 <?php
 
     // Footer
-    require 'template_parts/footer.php';
+    require 'template-parts/footer.php';
 
     // Necessary functions for the functioning of the site
     require 'vendors/compiled-scripts/scripts.php';
