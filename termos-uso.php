@@ -31,6 +31,7 @@
                 </div>
             </div>
         </section>
+        
         <section class="blog_area sec_pad pt-5 cus_ptB_Bl">
             <div class="container">
                 <div class="row">
