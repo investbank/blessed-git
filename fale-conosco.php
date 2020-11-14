@@ -1,5 +1,8 @@
 <?php
 
+    // Page Title
+    $pageTitle = "Fale Conosco";
+
     // Functions for the operation of the site
     require 'inc/functions.php';
 
