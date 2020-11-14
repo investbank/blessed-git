@@ -402,84 +402,10 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li class="nav-item dropdown submenu mega_menu<?=iiF(paginaAtual($_SERVER["SCRIPT_NAME"]), 'fale-conosco', ' active', '')?>">
-                                <a class="nav-link dropdown-toggle" href="header-dark.html#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <li class="nav-item<?=iiF(paginaAtual($_SERVER["SCRIPT_NAME"]), 'fale-conosco', ' active', '')?>">
+                                <a class="nav-link" href="fale-conosco.php" role="button" aria-haspopup="true" aria-expanded="false">
                                     Fale Conosco
                                 </a>
-                                <div class="mega_menu_inner">
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a class="nav-link">Elements 01</a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="Accordion.html" class="nav-link">Accordions</a></li>
-                                                <li class="nav-item"><a href="button.html" class="nav-link">Buttons</a></li>
-                                                <li class="nav-item"><a href="team.html" class="nav-link">Team</a></li>
-                                                <li class="nav-item"><a href="integration.html" class="nav-link">Integration</a></li>
-                                                <li class="nav-item"><a href="client.html" class="nav-link">Clients</a></li>
-                                                <li class="nav-item"><a href="subscribe.html" class="nav-link">Subscribe</a>
-                                                </li>
-                                                <li class="nav-item"><a href="call-to-action.html" class="nav-link">Call to
-                                                        Action</a></li>
-                                                <li class="nav-item"><a href="tab.html" class="nav-link">Tab</a></li>
-                                            </ul>
-                                        </li>
-
-                                        <li class="nav-item">
-                                            <a class="nav-link">Elements 02</a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="testimonial.html" class="nav-link">Testimonials</a></li>
-                                                <li class="nav-item"><a href="video.html" class="nav-link">Video</a></li>
-                                                <li class="nav-item"><a href="carosuel.html" class="nav-link">Carosuel</a>
-                                                </li>
-                                                <li class="nav-item"><a href="google-map.html" class="nav-link">Google
-                                                        Map</a></li>
-                                                <li class="nav-item"><a href="contact-form.html" class="nav-link">Contact
-                                                        Form</a></li>
-                                                <li class="nav-item"><a href="process.html" class="nav-link">Process</a>
-                                                </li>
-                                                <li class="nav-item"><a href="getapp.html" class="nav-link">Get App</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a class="nav-link">Elements 03</a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="heading.html" class="nav-link">Heading</a>
-                                                </li>
-                                                <li class="nav-item"><a href="blockquote.html" class="nav-link">Blockquote</a></li>
-                                                <li class="nav-item"><a href="price.html" class="nav-link">Pricing Table</a>
-                                                </li>
-                                                <li class="nav-item"><a href="fun-fact.html" class="nav-link">Fun Fact</a>
-                                                </li>
-                                                <li class="nav-item"><a href="coming-soon.html" class="nav-link">Countdown
-                                                        Timer</a></li>
-                                                <li class="nav-item"><a href="pagination.html" class="nav-link">Pagination</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a class="nav-link">
-                                                Headers
-                                            </a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="header-dark.html" class="nav-link">Header
-                                                        Dark</a></li>
-                                                <li class="nav-item"><a href="header-style2.html" class="nav-link">Header
-                                                        Style 2</a></li>
-                                                <li class="nav-item"><a href="header-style3.html" class="nav-link">Header
-                                                        Style 3</a></li>
-                                                <li class="nav-item"><a href="header-style4.html" class="nav-link">Header
-                                                        Style 4</a></li>
-                                                <li class="nav-item"><a href="header-style5.html" class="nav-link">Header
-                                                        Style 5</a></li>
-                                                <li class="nav-item"><a href="header-style6.html" class="nav-link">Header
-                                                        Style 6</a></li>
-                                                <li class="nav-item"><a href="header-style7.html" class="nav-link">Header
-                                                        Style 7</a></li>
-                                                <li class="nav-item"><a href="header-style8.html" class="nav-link">Header
-                                                        Style 8</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
                             </li>
                         </ul>
                     </div>
