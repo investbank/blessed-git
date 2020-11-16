@@ -38,20 +38,20 @@
         <section class="contact_info_area sec_pad bg_color">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 pr-0">
+                    <div class="col-lg-4 pr-0">
                         <div class="contact_info_item">
                             <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Endereço do escritório</h6>
-                            <p class="f_400 f_size_15">Av. Brig. Faria Lima, 1451, Torre 1, Cj. 57</p>
+                            <p class="f_400 f_size_15">Av. Brig. Faria Lima, 1451, Guarulhos-SP.</p>
                         </div>
                         <div class="contact_info_item">
                             <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Informação de contato</h6>
                             <p class="f_400 f_size_15"><span class="f_400 t_color3">Telefone:</span> <a href="tel:11986904543">(11) 9 8690-4543</a></p>
-                            <p class="f_400 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:contato@blessedcorporation.com.br">contato@blessedcorporati...</a></p>
+                            <p class="f_400 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:contato@blessedcorporation.com.br">contato@blessedcorporation.com.br</a></p>
                         </div>
                     </div>
-                    <div class="col-lg-8 offset-lg-1">
+                    <div class="col-lg-8">
                         <div class="mapbox">
-                            <div id="mapBox" class="row m0" data-lat="40.701083" data-lon="-74.1522848" data-zoom="10" data-info="PO Box CT16122 Collins Street West, Victoria 8007, Australia." data-marker="img/map.png" data-mlat="40.701083" data-mlon="-74.1522848">
+                            <div id="mapBox" class="row m0" data-lat="-23.44278674" data-lon="-46.52222657" data-zoom="10" data-info="Av. Brig. Faria Lima, 1451, Guarulhos-SP." data-marker="img/map.png" data-mlat="-23.44278674" data-mlon="-46.52222657">
                             </div>
                         </div>
                     </div>
