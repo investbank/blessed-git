@@ -41,7 +41,7 @@
                     <div class="col-lg-4 pr-0">
                         <div class="contact_info_item">
                             <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Endereço do escritório</h6>
-                            <p class="f_400 f_size_15">Av. Brig. Faria Lima, 1451, Guarulhos-SP.</p>
+                            <p class="f_400 f_size_15">Av. Brig. Faria Lima, 1451, Guarulhos - SP</p>
                         </div>
                         <div class="contact_info_item">
                             <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Informação de contato</h6>
@@ -51,7 +51,7 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="mapbox">
-                            <div id="mapBox" class="row m0" data-lat="-23.44278674" data-lon="-46.52222657" data-zoom="10" data-info="Av. Brig. Faria Lima, 1451, Guarulhos-SP." data-marker="img/map.png" data-mlat="-23.44278674" data-mlon="-46.52222657">
+                            <div id="mapBox" class="row m0" data-lat="-23.44278674" data-lon="-46.52222657" data-zoom="10" data-info="Av. Brig. Faria Lima, 1451, Guarulhos - SP" data-marker="img/map.png" data-mlat="-23.44278674" data-mlon="-46.52222657">
                             </div>
                         </div>
                     </div>
