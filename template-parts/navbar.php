@@ -2,7 +2,7 @@
         <header class="header_area">
             <nav class="navbar navbar-expand-lg menu_one menu_four">
                 <div class="container">
-                    <a class="navbar-brand sticky_logo" href="blockquote.html#"><img src="img/logo2.png" srcset="img/logo2.png 2x" alt="logo"><img src="img/logo.png" srcset="img/logo.png 2x" alt=""></a>
+                    <a class="navbar-brand sticky_logo" href="#"><img src="img/logo2.png" srcset="img/logo2.png 2x" alt="logo"><img src="img/logo.png" srcset="img/logo.png 2x" alt=""></a>
                     <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="menu_toggle">
                             <span class="hamburger">
@@ -319,51 +319,9 @@
                                 </div>
                             </li>
                             <li class="nav-item dropdown submenu mega_menu<?=iiF(paginaAtual($_SERVER["SCRIPT_NAME"]), 'portfolio', ' active', '')?>">
-                                <a class="nav-link dropdown-toggle" href="header-dark.html#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <a class="nav-link" href="portfolio.php" role="button" aria-haspopup="true" aria-expanded="false">
                                     Portfolio
                                 </a>
-                                <div class="mega_menu_inner">
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="index.html" class="nav-link">Portfolio Grid</a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="portfolio-grid-2col.html" class="nav-link">Style 1 (2 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-grid-3columns.html" class="nav-link">Style 1 (3 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-grid-4columns.html" class="nav-link">Style 1 (4 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-grid-2col-2.html" class="nav-link">Style 2 (2 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-grid-2col-3.html" class="nav-link">Style 2 (3 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-grid-2col-4.html" class="nav-link">Style 2 (4 columns)</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index.html" class="nav-link">Portfolio Fluid</a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="portfolio-fullwidth-3columns.html" class="nav-link">Style 1 (3 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-fullwidth-4columns.html" class="nav-link">Style 1 (4 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-grid-fullwidth1.html" class="nav-link">Style 2 (3 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-grid-fullwidth2.html" class="nav-link">Style 2 (4 columns)</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index.html" class="nav-link">Portfolio Masonry</a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="portfolio-mas-2col.html" class="nav-link">Style 1 (2 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-mas-3col.html" class="nav-link">Style 1 (3 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-mas-4col.html" class="nav-link">Style 1 (4 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-mas-3col-2.html" class="nav-link">Style 2 (3 columns)</a></li>
-                                                <li class="nav-item"><a href="portfolio-mas-4col-2.html" class="nav-link">Style 2 (4 columns)</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index.html" class="nav-link">Project details</a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="portfolio-details-1.html" class="nav-link">Style 1</a></li>
-                                                <li class="nav-item"><a href="portfolio-details-2.html" class="nav-link">Style 2</a></li>
-                                                <li class="nav-item"><a href="portfolio-details-3.html" class="nav-link">Style 3</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
                             </li>
                             <li class="nav-item dropdown submenu<?=iiF(paginaAtual($_SERVER["SCRIPT_NAME"]), 'servicos', ' active', '')?>">
                                 <a class="nav-link dropdown-toggle" href="header-dark.html#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
